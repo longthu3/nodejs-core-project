@@ -1,0 +1,6 @@
+node_modules/
+.idea/
+*.iml
+.env*
+core-project-nodejs.iml
+src/config/index.ts
